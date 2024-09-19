@@ -41,3 +41,9 @@ To run the game, you will need to have **Python** installed along with the **Pyg
 
 ## **Gameplay**
 In Tetris, the player must rotate and position falling tetrominoes to form complete horizontal lines. When a line is completed, it is removed, and the player earns points. The game ends when the tetrominoes stack up to the top of the screen.
+
+## **Controls**:
+1. **Arrow keys: Move the tetromino**.
+2. **Up arrow: Rotate the tetromino**.
+3. **Down arrow: Speed up the fall**.
+4, **Space bar: Drop the tetromino immediately**.
