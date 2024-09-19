@@ -47,3 +47,6 @@ In Tetris, the player must rotate and position falling tetrominoes to form compl
 2. **Up arrow: Rotate the tetromino**.
 3. **Down arrow: Speed up the fall**.
 4, **Space bar: Drop the tetromino immediately**.
+
+## **License**
+**This project is licensed under the MIT License**.
