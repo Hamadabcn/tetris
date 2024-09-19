@@ -31,3 +31,7 @@ To run the game, you will need to have **Python** installed along with the **Pyg
    ```bash
    git clone https://github.com/YourUsername/tetris-game.git
    cd tetris-game
+2. **Install dependencies**:
+````bash
+   Copiar código
+   pip install pygame
