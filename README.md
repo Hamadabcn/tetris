@@ -21,7 +21,6 @@ This repository includes:
 ## **Requirements**
 
 To run the game, you will need to have **Python** installed along with the **Pygame** library.
-
 - Python 3.x
 - Pygame
 
@@ -35,9 +34,7 @@ To run the game, you will need to have **Python** installed along with the **Pyg
    ```bash
    pip install pygame
 
-
 ## **Usage**
-
 1. **Run the Tetris game**:
    ```bash
    python main.py
